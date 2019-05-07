@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1557061708,
-      "filename": "lineage-16.0-20190505-UNOFFICIAL-montana-signed.zip",
-      "id": "4e5a9fe2039d70f9bf0ade56baed1a01aedd62486043e6bdfcdcef3c5c765d66",
+      "datetime": 1557104341,
+      "filename": "lineage-16.0-20190506-UNOFFICIAL-montana-signed.zip",
+      "id": "8cc381da41641798b95d10311e7854c82b27510d31d2064e1636cb8846b2becf",
       "romtype": "unofficial",
-      "size": 641908068,
-      "url": "https://github.com/montanadevelopment/releases/releases/download/LOS16-7b2/lineage-16.0-20190505-UNOFFICIAL-montana-signed.zip",
+      "size": 641556552,
+      "url": "https://github.com/montanadevelopment/releases/releases/download/LOS16-7b3/lineage-16.0-20190506-UNOFFICIAL-montana-signed.zip",
       "version": "16.0"
     }
   ]
