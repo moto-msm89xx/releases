@@ -26,6 +26,15 @@
       "size": 647512943,
       "url": "https://github.com/MontanaDevelopment/releases/releases/download/lineage-17.1-1.3/lineage-17.1-20200915-UNOFFICIAL-montana.zip",
       "version": "17.1"
+    },
+    {
+      "datetime": 1600242252,
+      "filename": "lineage-17.1-20200916-UNOFFICIAL-montana.zip",
+      "id": "43653813dd681abdcb915ed9afa17532e49d0f45bc0d60b8448c3d0a1d4752fa",
+      "romtype": "UNOFFICIAL",
+      "size": 647676686,
+      "url": "https://github.com/MontanaDevelopment/releases/releases/download/lineage-17.1-1.4/lineage-17.1-20200916-UNOFFICIAL-montana.zip",
+      "version": "17.1"
     }
   ]
 }
