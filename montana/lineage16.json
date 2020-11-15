@@ -6,7 +6,7 @@
       "id": "2b660fa1502ead08d3a6373520390e80ab0e9639376b260be2c3ad53f4d23bec",
       "romtype": "UNOFFICIAL",
       "size": 650771323,
-      "url": "https://github.com/MontanaDevelopment/releases/releases/download/lineage-16.0-1.0/lineage-16.0-20200824-UNOFFICIAL-montana.zip",
+      "url": "https://github.com/moto-msm8937/releases/releases/download/lineage-16.0-1.0/lineage-16.0-20200824-UNOFFICIAL-montana.zip",
       "version": "16.0"
     },
     {
@@ -15,7 +15,7 @@
       "id": "6e77b13b8215d26a481b0fb9e20784e9e4f0fdc567a1227353c38d7be3d676b4",
       "romtype": "UNOFFICIAL",
       "size": 652427690,
-      "url": "https://github.com/MontanaDevelopment/releases/releases/download/lineage-16.0-1.1/lineage-16.0-20200918-UNOFFICIAL-montana.zip",
+      "url": "https://github.com/moto-msm8937/releases/releases/download/lineage-16.0-1.1/lineage-16.0-20200918-UNOFFICIAL-montana.zip",
       "version": "16.0"
     },
     {
@@ -24,7 +24,7 @@
       "id": "04cc7816008a946bd0608dc730a57d1b96bfb184765930064616ca66f9737f3b",
       "romtype": "UNOFFICIAL",
       "size": 651838824,
-      "url": "https://github.com/MontanaDevelopment/releases/releases/download/lineage-17.1-1.8/lineage-17.1-20201011-UNOFFICIAL-montana.zip",
+      "url": "https://github.com/moto-msm8937/releases/releases/download/lineage-17.1-1.8/lineage-17.1-20201011-UNOFFICIAL-montana.zip",
       "version": "17.1"
     }
   ]
