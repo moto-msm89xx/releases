@@ -19,12 +19,12 @@
       "version": "16.0"
     },
     {
-      "datetime": 1602451294,
-      "filename": "lineage-17.1-20201011-UNOFFICIAL-montana.zip",
-      "id": "04cc7816008a946bd0608dc730a57d1b96bfb184765930064616ca66f9737f3b",
+      "datetime": 1605440102,
+      "filename": "lineage-17.1-20201115-UNOFFICIAL-montana.zip",
+      "id": "a5532122c2b55e4b8604adf2b6b7c7be12b32101b871d59afa63319594005063",
       "romtype": "UNOFFICIAL",
-      "size": 651838824,
-      "url": "https://github.com/moto-msm8937/releases/releases/download/lineage-17.1-1.8/lineage-17.1-20201011-UNOFFICIAL-montana.zip",
+      "size": 662398177,
+      "url": "https://github.com/moto-msm8937/releases/releases/download/lineage-17.1-montana-1.9/lineage-17.1-20201115-UNOFFICIAL-montana.zip",
       "version": "17.1"
     }
   ]
